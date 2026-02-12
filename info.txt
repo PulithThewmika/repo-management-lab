@@ -1,0 +1,1 @@
+This repository is created for learning Git and GitHub. It demonstrates basic version control operations including branching, merging, conflict resolution, and remote repository management.
